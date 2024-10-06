@@ -1,6 +1,5 @@
 # Online-Placement-Management-System
 
-# Online Placement Management System
 
 ## A Smart Way to Manage Student Placement Progress
 
