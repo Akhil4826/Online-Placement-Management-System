@@ -112,6 +112,13 @@ The **Online Placement Management System** is a continuously improving project. 
 ## 8. Conclusion <a name="conclusion"></a>
 The **Online Placement Management System** streamlines the placement process for students, HODs, principals, and placement officers. With an organized structure, efficient communication, and easy access to necessary data, the system helps manage placement-related activities and supports students in their journey toward securing jobs. It is an ongoing project, with room for enhancements and contributions from the developer community.
 
----
+---![Screenshot 2024-10-06 210210](https://github.com/user-attachments/assets/2760e4af-fa4c-487d-a362-9bb396a19ee2)
+
+![Screenshot 2024-10-06 210034](https://github.com/user-attachments/assets/88ffc479-2fdf-45c8-a18f-7ad6d7c52a15)
+
+![Screenshot 2024-10-06 210022](https://github.com/user-attachments/assets/72b3c35f-7870-48a8-b8a4-c8e8f14cf96a)
+
+
+
 
 
